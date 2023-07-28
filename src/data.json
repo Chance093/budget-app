@@ -1,0 +1,111 @@
+[
+	{
+		"Category Group": "Bills",
+		"Categories": [
+			{
+				"title": "Car Insurance",
+				"amount needed": 153.55,
+				"due": 29,
+				"assigned": 153.55,
+				"activity": 0.0
+			},
+			{
+				"title": "Car Payment",
+				"amount needed": 294.22,
+				"due": 2,
+				"assigned": 0.0,
+				"activity": 0.0
+			},
+			{
+				"title": "Rock Climbing Gym",
+				"amount needed": 63.0,
+				"due": 17,
+				"assigned": 63.0,
+				"activity": 63.0
+			},
+			{
+				"title": "Cell Phone",
+				"amount needed": 130.0,
+				"due": 1,
+				"assigned": 0.0,
+				"activity": 0.0
+			}
+		]
+	},
+	{
+		"Category Group": "Frequent",
+		"Categories": [
+			{
+				"title": "Groceries",
+				"amount needed": 50.0,
+				"due": 30,
+				"assigned": 50.0,
+				"activity": 33.5
+			},
+			{
+				"title": "Eating Out",
+				"amount needed": 100.0,
+				"due": 30,
+				"assigned": 122.0,
+				"activity": 97.42
+			},
+			{
+				"title": "Transportation",
+				"amount needed": 150.0,
+				"due": 30,
+				"assigned": 150.0,
+				"activity": 67.05
+			}
+		]
+	},
+	{
+		"Category Group": "Non-Monthly",
+		"Categories": [
+			{
+				"title": "Car Maintenance",
+				"amount needed": 0.0,
+				"due": null,
+				"assigned": 51.25,
+				"activity": 51.25
+			},
+			{
+				"title": "Gifts",
+				"amount needed": 0.0,
+				"due": null,
+				"assigned": 0.0,
+				"activity": 0.0
+			}
+		]
+	},
+	{
+		"Category Group": "Goals",
+		"Categories": [
+			{
+				"title": "Vacation",
+				"amount needed": 0.0,
+				"due": null,
+				"assigned": 0.0,
+				"activity": 0.0
+			}
+		]
+	},
+	{
+		"Category Group": "Quality of Life",
+		"Categories": [
+			{
+				"title": "Dates",
+				"amount needed": 100.0,
+				"due": 30,
+				"assigned": 100.00,
+				"activity": 37.46
+			},
+			{
+				"title": "Hobbies",
+				"amount needed": 0.0,
+				"due": null,
+				"assigned": 0.0,
+				"activity": 0.0
+			}
+		]
+	}
+]
