@@ -1,9 +1,11 @@
 [
 	{
-		"Category Group": "Bills",
-		"Categories": [
+		"categoryGroup": "Bills",
+		"id": 1,
+		"categories": [
 			{
 				"title": "Car Insurance",
+				"id": 11,
 				"amount needed": 153.55,
 				"due": 29,
 				"assigned": 153.55,
@@ -11,6 +13,7 @@
 			},
 			{
 				"title": "Car Payment",
+				"id": 12,
 				"amount needed": 294.22,
 				"due": 2,
 				"assigned": 0.0,
@@ -18,6 +21,7 @@
 			},
 			{
 				"title": "Rock Climbing Gym",
+				"id": 13,
 				"amount needed": 63.0,
 				"due": 17,
 				"assigned": 63.0,
@@ -25,6 +29,7 @@
 			},
 			{
 				"title": "Cell Phone",
+				"id": 14,
 				"amount needed": 130.0,
 				"due": 1,
 				"assigned": 0.0,
@@ -33,10 +38,12 @@
 		]
 	},
 	{
-		"Category Group": "Frequent",
-		"Categories": [
+		"categoryGroup": "Frequent",
+		"id": 2,
+		"categories": [
 			{
 				"title": "Groceries",
+				"id": 21,
 				"amount needed": 50.0,
 				"due": 30,
 				"assigned": 50.0,
@@ -44,6 +51,7 @@
 			},
 			{
 				"title": "Eating Out",
+				"id": 22,
 				"amount needed": 100.0,
 				"due": 30,
 				"assigned": 122.0,
@@ -51,6 +59,7 @@
 			},
 			{
 				"title": "Transportation",
+				"id": 23,
 				"amount needed": 150.0,
 				"due": 30,
 				"assigned": 150.0,
@@ -59,10 +68,12 @@
 		]
 	},
 	{
-		"Category Group": "Non-Monthly",
-		"Categories": [
+		"categoryGroup": "Non-Monthly",
+		"id": 3,
+		"categories": [
 			{
 				"title": "Car Maintenance",
+				"id": 31,
 				"amount needed": 0.0,
 				"due": null,
 				"assigned": 51.25,
@@ -70,6 +81,7 @@
 			},
 			{
 				"title": "Gifts",
+				"id": 32,
 				"amount needed": 0.0,
 				"due": null,
 				"assigned": 0.0,
@@ -78,10 +90,12 @@
 		]
 	},
 	{
-		"Category Group": "Goals",
-		"Categories": [
+		"categoryGroup": "Goals",
+		"id": 4,
+		"categories": [
 			{
 				"title": "Vacation",
+				"id": 41,
 				"amount needed": 0.0,
 				"due": null,
 				"assigned": 0.0,
@@ -90,10 +104,12 @@
 		]
 	},
 	{
-		"Category Group": "Quality of Life",
-		"Categories": [
+		"categoryGroup": "Quality of Life",
+		"id": 5,
+		"categories": [
 			{
 				"title": "Dates",
+				"id": 51,
 				"amount needed": 100.0,
 				"due": 30,
 				"assigned": 100.00,
@@ -101,6 +117,7 @@
 			},
 			{
 				"title": "Hobbies",
+				"id": 52,
 				"amount needed": 0.0,
 				"due": null,
 				"assigned": 0.0,
